@@ -10,3 +10,4 @@ Free and Traceable License (FTL) v1.1
 https://github.com/Mr-Best-creator/Free-and-Traceable-License-FTL-/blob/main/Free_and_Traceable_License(FTL)v1.1/LICENSE.txt
 
 Free and Traceable License (FTL) v1.2以降FTLはライセンス内でライセンス自体がそのライセンス文に適応されることが明記されました。
+FTLv1.2以降のバージョンはそれぞれのLICENSE.txtを確認してください。
