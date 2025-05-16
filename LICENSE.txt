@@ -1,6 +1,8 @@
 それぞれライセンス文書のライセンスはそれぞれのライセンス文書が適応されます。
 それぞれのライセンス文書を確認してください。
 
+FTLは本リポジトリからコピーを作成する際に限りFTL-CHANGELOG.txtが免除されます。
+
 Free and Traceable License (FTL) v1.0
 https://github.com/Mr-Best-creator/Free-and-Traceable-License-FTL-/blob/main/Free_and_Traceable_License(FTL)v1.0/LICENSE.txt
 
