@@ -52,4 +52,5 @@
 2025/05/16に公開された本ライセンス最初のバージョンです。
 ### Free and Traceable License (FTL) v1.1
 Free and Traceable License (FTL) v1.0がリリースされたあと矛盾が見つかったため修正されたバージョンです。
-こちらに移行してください。
+### Free and Traceable License (FTL) v1.2
+本ライセンスのライセンスを明確化、改変者となっており分かりにくかった問題の修正
